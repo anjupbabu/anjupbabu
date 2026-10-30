@@ -5,7 +5,7 @@
 I build enterprise web applications where accuracy matters: payroll, time and attendance, and business management systems.
 
 - 💼 **Conduent:** core modules of a time, attendance and payroll platform used across **seven countries**, including gross pay logic and payroll integrations
-- 🌍 Delivered **multilingual support in five languages** (English, Spanish, German, Italian, French) in a single application
+- 🌍 Delivered **multilingual support** so a single application serves users in every region
 - 🏫 **Orison Software Specialists:** school and business management systems for UAE education and construction clients
 - 🗄️ Strongest in the data layer: database design, stored procedures, query optimization, SSRS and Crystal Reports
 
